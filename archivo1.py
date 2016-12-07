@@ -8,8 +8,8 @@ class Imagen():
         pass
 
 class Sonido():
-    def reproducir(self):
-        pass
+    def reproducir():
+        print("reproduciendo")
     def volumen(self):
         pass
     def fourier(self):
