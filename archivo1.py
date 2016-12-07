@@ -6,4 +6,12 @@ class Imagen():
         pass
     def binarizacion(self):
         pass
+
+class Sonido():
+    def reproducir(self):
+        pass
+    def volumen(self):
+        pass
+    def fourier(self):
+        pass
     
